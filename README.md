@@ -26,7 +26,7 @@ Modern deep learning models, especially pretrained transformer architectures lik
 
 ## Teammate and Project Information
 
-Teammate: [Ali KhosraviPour](https://www.linkedin.com/in/alikhosravipour)
+Teammate: [Farid Karimi]([https://www.linkedin.com/in/alikhosravipour](https://github.com/Farid-Karimi))
 
 The project was part of the Neuromatch Academy in Deep Learning course, supervised by our Project TA [Joseph AKINYEMI](https://www.linkedin.com/in/joseph-akinyemi-66ab6481/). The goal was to compare the performance of traditional and modern sentiment analysis models on a fine-grained dataset and analyze the impact of various challenges inherent in such tasks.
 
